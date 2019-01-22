@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-01-21T15:44:42.959Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://cbislovely.github.io/"/>
+  <updated>2019-01-22T13:56:47.502Z</updated>
+  <id>https://cbislovely.github.io/</id>
   
   <author>
     <name>Gavin Ford</name>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>Learning</title>
-    <link href="http://yoursite.com/2019/01/21/Learning/"/>
-    <id>http://yoursite.com/2019/01/21/Learning/</id>
+    <link href="https://cbislovely.github.io/2019/01/21/Learning/"/>
+    <id>https://cbislovely.github.io/2019/01/21/Learning/</id>
     <published>2019-01-21T15:42:05.000Z</published>
-    <updated>2019-01-21T15:44:42.959Z</updated>
+    <updated>2019-01-22T13:56:47.502Z</updated>
     
-    <content type="html"><![CDATA[<p>#这是第一次学习搭建hexo</p><p>##测试文章</p>]]></content>
+    <content type="html"><![CDATA[<p>这是第一次学习搭建hexo</p><p>##测试文章</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;#这是第一次学习搭建hexo&lt;/p&gt;
+        &lt;p&gt;这是第一次学习搭建hexo&lt;/p&gt;
 &lt;p&gt;##测试文章&lt;/p&gt;
 
       
@@ -37,14 +37,14 @@
     </summary>
     
     
-      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+      <category term="学习" scheme="https://cbislovely.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/01/20/hello-world/"/>
-    <id>http://yoursite.com/2019/01/20/hello-world/</id>
+    <link href="https://cbislovely.github.io/2019/01/20/hello-world/"/>
+    <id>https://cbislovely.github.io/2019/01/20/hello-world/</id>
     <published>2019-01-20T13:43:33.429Z</published>
     <updated>2019-01-20T13:43:33.430Z</updated>
     
